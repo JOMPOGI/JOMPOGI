@@ -1,4 +1,5 @@
 ## Hi there 👋
+![cat-computer](https://github.com/user-attachments/assets/c8bd84a3-ed24-43b0-9cf1-374723a63e43)
 
 <!--
 **JOMPOGI/JOMPOGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
